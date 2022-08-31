@@ -1,1 +1,2 @@
-My second readme
+My second readme\n
+Updated second readme
